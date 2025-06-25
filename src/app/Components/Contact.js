@@ -50,7 +50,7 @@ export const Contact = () => {
         <div className="contact-container">
     
     <div className="contact-left">
-      <h2 className="contact-title">Let's <span>Connect</span></h2>
+      <h2 className="contact-title">Let&apos;s <span>Connect</span></h2>
         <p className="contact-subtitle">
             Whether it's collaboration, opportunity, or just to say hi — drop a message anytime.
         </p>

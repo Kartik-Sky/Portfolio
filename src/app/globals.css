@@ -406,6 +406,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   justify-content: center;
   align-items: center;
   padding: 10px 0;
+  overflow: hidden;
+  border-radius: 8px; /* optional rounding */
+
 }
 
 .hud-content {
