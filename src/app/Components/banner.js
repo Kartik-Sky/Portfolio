@@ -59,7 +59,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Kartik Goyal`}</h1><h2> <span className="txt-rotate"  data-rotate='[ "AI/ML Developer", "Data Analyst", "Flutter Developer", "Full Stack Developer" ]'><span className="wrap">{text}</span></span></h2>
-                  <p className="mt-4">I am a simple man, making my way through the world. I have deep interest in AI and Deep Learning, and this was before all the AI hype right since my First Year. I believe in learning as many things as possible and have diversified my skills to cover many domains. If you got the reference in the first line you're already my friend!</p>
+                  <p className="mt-4">I am a simple man, making my way through the world. I have deep interest in AI and Deep Learning, and this was before all the AI hype right since my First Year. I believe in learning as many things as possible and have diversified my skills to cover many domains. If you got the reference in the first line you&apos;re already my friend!</p>
                   <button onClick={() => console.log('connect')}>Let&apos;s Connect <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>

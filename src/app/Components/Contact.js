@@ -52,7 +52,7 @@ export const Contact = () => {
     <div className="contact-left">
       <h2 className="contact-title">Let&apos;s <span>Connect</span></h2>
         <p className="contact-subtitle">
-            Whether it's collaboration, opportunity, or just to say hi — drop a message anytime.
+            Whether it&apos;s collaboration, opportunity, or just to say hi — drop a message anytime.
         </p>
       <div className="contact-item">
         <h3>Email</h3>
